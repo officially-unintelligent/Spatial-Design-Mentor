@@ -1,5 +1,7 @@
 # Spatial Design Mentor.skills
 
+![Spatial Design Mentor.skills cover](assets/cover.png)
+
 ## 建筑大师设计导师技能 / Architect Method Design Mentor
 
 <p>
