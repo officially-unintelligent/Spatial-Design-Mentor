@@ -1,8 +1,8 @@
-# Spatial Design Mentor.skills
+# Spatial Design Mentor
 
-![Spatial Design Mentor.skills cover](assets/cover.png)
+![Spatial Design Mentor cover](assets/cover.png)
 
-## 建筑大师设计导师技能 / Architect Method Design Mentor
+## 建筑大师方法导师 / Architect Method Mentor
 
 <p>
   <a href="#english">English</a> |
@@ -11,7 +11,7 @@
 
 ## English
 
-Spatial Design Mentor.skills is an early-stage architecture and spatial design assistant for students, designers, and educators.
+Spatial Design Mentor is an early-stage architecture and spatial design assistant for students, designers, and educators.
 
 It helps users move from site evidence to design thinking by reviewing project briefs, identifying missing information, reading site conditions, matching relevant architect methods, and supporting design critique and presentation structure.
 
@@ -24,7 +24,7 @@ The current version focuses on the design mentoring framework:
 - Critique support
 - Presentation and jury narrative support
 
-Spatial Design Mentor.skills is not intended to generate finished designs or imitate famous architects. It is intended to help users ask better design questions, build stronger spatial reasoning, and explain design decisions with evidence.
+Spatial Design Mentor is not intended to generate finished designs or imitate famous architects. It is intended to help users ask better design questions, build stronger spatial reasoning, and explain design decisions with evidence.
 
 ## How to Use
 
@@ -106,7 +106,7 @@ Possible guidance:
 
 ## 中文
 
-Spatial Design Mentor.skills 是一个面向建筑、空间设计、景观、城市设计学生和设计者的建筑大师设计导师技能。
+Spatial Design Mentor 是一个面向建筑、空间设计、景观、城市设计学生和设计者的建筑大师方法导师。
 
 它帮助使用者从场地证据出发，逐步完成任务书审查、信息缺失判断、场地条件分析、建筑师方法匹配、设计批评和汇报逻辑整理。
 
@@ -119,7 +119,7 @@ Spatial Design Mentor.skills 是一个面向建筑、空间设计、景观、城
 - 设计评图与修改建议
 - 汇报、答辩和作品集叙事支持
 
-Spatial Design Mentor.skills 不是为了直接生成最终设计，也不是为了模仿某位著名建筑师的风格。它的目标是帮助使用者提出更好的设计问题，建立更清晰的空间推理，并用场地和功能证据解释设计决策。
+Spatial Design Mentor 不是为了直接生成最终设计，也不是为了模仿某位著名建筑师的风格。它的目标是帮助使用者提出更好的设计问题，建立更清晰的空间推理，并用场地和功能证据解释设计决策。
 
 ## 使用指南
 
